@@ -26,3 +26,10 @@ Diabets/
 ├── Notebooks/         # Python scripts and data analysis notebooks
 ├── SQL/               # Database schemas, queries, and scripts
 └── Scren shots/       # Visual previews and dashboard exports
+📊 Key Highlights & Dashboard Insights
+Multi-Factor Risk Analysis: Evaluates patient sample demographics against diabetes progression rates.
+
+Metric Breakdown: Tracks total patient samples, diabetes rates, and high-risk percentage indicators.
+
+Comparative Metrics: Analyzes correlations involving age groups, BMI levels, glucose benchmarks, and pregnancy groups.
+
