@@ -52,3 +52,9 @@ This section highlights the database operations and querying techniques utilized
 1. **Power BI:** Open the `.pbix` file located in the `Dashboards` folder to interact with the visual metrics.
 2. **SQL Queries:** Review the database schemas and scripts inside the `SQL` folder.
 3. **Python Notebooks:** Check the `Notebooks` directory for data preprocessing and exploration workflows.
+---
+
+## 📊 Dataset Source
+* **Source:** Mention the platform or origin here (e.g., Kaggle / UCI Machine Learning Repository).
+* **Description:** The dataset contains various clinical and lifestyle health metrics used to evaluate and predict diabetes risk.
+* **Link:** [View Dataset Source] (https://www.kaggle.com/datasets/hasibur013/diabetes-dataset)
